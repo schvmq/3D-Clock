@@ -1,0 +1,17 @@
+{
+  "name": "3d-clock",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "Electron + Three js 3D Clock",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "electron": "^38.4.0",
+    "three": "^0.180.0"
+  }
+}
