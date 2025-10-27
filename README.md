@@ -8,7 +8,7 @@ git clone https://github.com/schvmq/3D-Clock.git
 cd 3D-Clock
 
 // Install dependencies
-npm install electron three
+npm install
 
 // Start the app
 npm start
